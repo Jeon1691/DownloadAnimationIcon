@@ -1,0 +1,87 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/jeonseung-il/Dropbox/AndroidProjects/DownloadAnimation/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/jeonseung-il/Dropbox/AndroidProjects/DownloadAnimation/app/src/main/AndroidManifest.xml:3:5-45
+		INJECTED from /Users/jeonseung-il/Dropbox/AndroidProjects/DownloadAnimation/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jeonseung-il/Dropbox/AndroidProjects/DownloadAnimation/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/jeonseung-il/Dropbox/AndroidProjects/DownloadAnimation/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jeonseung-il/Dropbox/AndroidProjects/DownloadAnimation/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/jeonseung-il/Dropbox/AndroidProjects/DownloadAnimation/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/jeonseung-il/Dropbox/AndroidProjects/DownloadAnimation/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jeonseung-il/Dropbox/AndroidProjects/DownloadAnimation/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/jeonseung-il/Dropbox/AndroidProjects/DownloadAnimation/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:appcompat-v7:25.3.0] /Users/jeonseung-il/.android/build-cache/aafbfa02d9e067ac52c214df16d6f50195fa7ba0/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.0] /Users/jeonseung-il/.android/build-cache/0faab5e60a3454684eb48a8f026535b13f93ff55/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.0] /Users/jeonseung-il/.android/build-cache/e0ef143a969a8dc7ea01162026e94a90d7402e12/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.0] /Users/jeonseung-il/.android/build-cache/72feaa5e7923442ecd7c0e4fbf176d3445293e49/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.0] /Users/jeonseung-il/.android/build-cache/36072cfb12aa4fa3bde8dc58a03695860f1e5714/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.0] /Users/jeonseung-il/.android/build-cache/1265643a323ed68b41e0782e9a394631d26e6880/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /Users/jeonseung-il/.android/build-cache/c7bceb585c949414948b4d6ce473dd752b903da0/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /Users/jeonseung-il/.android/build-cache/153a9298221daac72a5683c82f0bfefcebda9021/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.0] /Users/jeonseung-il/.android/build-cache/db5c669a8648c5dfed1237c0dfce8971629692bd/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.1] /Users/jeonseung-il/.android/build-cache/2f09c8fae275462d8adc97346c2a06dea20f7c5f/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /Users/jeonseung-il/Dropbox/AndroidProjects/DownloadAnimation/app/src/main/AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from /Users/jeonseung-il/Dropbox/AndroidProjects/DownloadAnimation/app/src/main/AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from /Users/jeonseung-il/Dropbox/AndroidProjects/DownloadAnimation/app/src/main/AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from /Users/jeonseung-il/Dropbox/AndroidProjects/DownloadAnimation/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /Users/jeonseung-il/Dropbox/AndroidProjects/DownloadAnimation/app/src/main/AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from /Users/jeonseung-il/Dropbox/AndroidProjects/DownloadAnimation/app/src/main/AndroidManifest.xml:11:9-40
+activity#legab.kotlin.downloadanimation.MainActivity
+ADDED from /Users/jeonseung-il/Dropbox/AndroidProjects/DownloadAnimation/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/jeonseung-il/Dropbox/AndroidProjects/DownloadAnimation/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/jeonseung-il/Dropbox/AndroidProjects/DownloadAnimation/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/jeonseung-il/Dropbox/AndroidProjects/DownloadAnimation/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/jeonseung-il/Dropbox/AndroidProjects/DownloadAnimation/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/jeonseung-il/Dropbox/AndroidProjects/DownloadAnimation/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/jeonseung-il/Dropbox/AndroidProjects/DownloadAnimation/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/jeonseung-il/Dropbox/AndroidProjects/DownloadAnimation/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.0] /Users/jeonseung-il/.android/build-cache/aafbfa02d9e067ac52c214df16d6f50195fa7ba0/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.0] /Users/jeonseung-il/.android/build-cache/0faab5e60a3454684eb48a8f026535b13f93ff55/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.0] /Users/jeonseung-il/.android/build-cache/e0ef143a969a8dc7ea01162026e94a90d7402e12/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.0] /Users/jeonseung-il/.android/build-cache/72feaa5e7923442ecd7c0e4fbf176d3445293e49/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.0] /Users/jeonseung-il/.android/build-cache/36072cfb12aa4fa3bde8dc58a03695860f1e5714/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.0] /Users/jeonseung-il/.android/build-cache/1265643a323ed68b41e0782e9a394631d26e6880/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /Users/jeonseung-il/.android/build-cache/c7bceb585c949414948b4d6ce473dd752b903da0/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /Users/jeonseung-il/.android/build-cache/153a9298221daac72a5683c82f0bfefcebda9021/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.0] /Users/jeonseung-il/.android/build-cache/db5c669a8648c5dfed1237c0dfce8971629692bd/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.1] /Users/jeonseung-il/.android/build-cache/2f09c8fae275462d8adc97346c2a06dea20f7c5f/output/AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.0] /Users/jeonseung-il/.android/build-cache/aafbfa02d9e067ac52c214df16d6f50195fa7ba0/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/jeonseung-il/Dropbox/AndroidProjects/DownloadAnimation/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jeonseung-il/Dropbox/AndroidProjects/DownloadAnimation/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/jeonseung-il/Dropbox/AndroidProjects/DownloadAnimation/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jeonseung-il/Dropbox/AndroidProjects/DownloadAnimation/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.0] /Users/jeonseung-il/.android/build-cache/aafbfa02d9e067ac52c214df16d6f50195fa7ba0/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.0] /Users/jeonseung-il/.android/build-cache/0faab5e60a3454684eb48a8f026535b13f93ff55/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.0] /Users/jeonseung-il/.android/build-cache/e0ef143a969a8dc7ea01162026e94a90d7402e12/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.0] /Users/jeonseung-il/.android/build-cache/72feaa5e7923442ecd7c0e4fbf176d3445293e49/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.0] /Users/jeonseung-il/.android/build-cache/36072cfb12aa4fa3bde8dc58a03695860f1e5714/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.0] /Users/jeonseung-il/.android/build-cache/1265643a323ed68b41e0782e9a394631d26e6880/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /Users/jeonseung-il/.android/build-cache/c7bceb585c949414948b4d6ce473dd752b903da0/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /Users/jeonseung-il/.android/build-cache/153a9298221daac72a5683c82f0bfefcebda9021/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.0] /Users/jeonseung-il/.android/build-cache/db5c669a8648c5dfed1237c0dfce8971629692bd/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.0] /Users/jeonseung-il/.android/build-cache/aafbfa02d9e067ac52c214df16d6f50195fa7ba0/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.0] /Users/jeonseung-il/.android/build-cache/aafbfa02d9e067ac52c214df16d6f50195fa7ba0/output/AndroidManifest.xml:26:9-47
